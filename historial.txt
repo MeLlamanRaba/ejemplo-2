@@ -1,0 +1,29 @@
+    1  dir
+    2  ls
+    3  git status
+    4  git status
+    5  git add && git commit - m "añado historial.txt"
+    6  clear all
+    7  clear
+    8  ls
+    9  clear
+   10  git init hola.txt
+   11  clear
+   12  touch hola.txt
+   13  clear
+   14  nano nombre.txt
+   15  nano nombre.txt
+   16  git status 
+   17  cd Download
+   18  ls
+   19  cd Downloads/
+   20  mkdir ejemplo-git
+   21  ls
+   22  cd ejemplo-git/
+   23  ls
+   24  touch hola.txt
+   25  touch adios.txt
+   26  history
+   27  git log
+   28  history
+   29  history >> historial.txt
